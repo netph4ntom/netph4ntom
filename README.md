@@ -93,7 +93,7 @@
 
 ###
 
-<h3 align="left">Game :</h3>
+<h3 align="left">Game</h3>
 
 ###
 
